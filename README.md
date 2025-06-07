@@ -4,7 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:annalice@estudante.ufscar.br)
 [![Github Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Annalicefs)
 
-<p>I'm a Computer Engineering student at <a href="http://www.ufscar.br" target="_blank">UFSCar</a> with a strong interest in software development and data science.<br>
+<p>I'm a Computer Engineering student at <a href="http://www.ufscar.br"
+ target="_blank">UFSCar</a> with a strong interest in software development and data science.<br>
   Thanks for stopping by! 😊<br></p>
 
 <br>
@@ -25,6 +26,7 @@
 <br>
 
 <!-- ## Github Stats
+[![Top Langs](https://github-readme-stats-eight-delta-76.vercel.app/api/top-langs/?username=Annalicefs&layout=compact&langs_count=7&theme=dracula)](https://github.com/Annalicefs
 
 <div align= "center">
   <a href="https://github.com/Annalicefs">
